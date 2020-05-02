@@ -1,12 +1,12 @@
 {
   "feedback": [
     {
-      "img": "https://raw.githubusercontent.com/XEMC2/Proxy/master/Clash/zh-CN/1.jpg",
+      "img": "https://raw.githubusercontent.com/XEMC2/Proxy/master/Clash/zh-CN/A.jpg",
       "click": "https://google.com"
     },
     {
-      "img": "",
-      "click": "http://google.com"
+      "img": "https://raw.githubusercontent.com/XEMC2/Proxy/master/Clash/zh-CN/B.jpg",
+      "click": "https://google.com"
     }
   ]
 }
