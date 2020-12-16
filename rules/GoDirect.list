@@ -1,3 +1,6 @@
+# > 58.com 广告规则，屏蔽后无法点击按钮
+DOMAIN-SUFFIX,tracklog.58.com
+
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amazon.de
 DOMAIN-SUFFIX,amazon.co.uk
@@ -17,4 +20,4 @@ DOMAIN-SUFFIX,amazon.sg
 DOMAIN-SUFFIX,amazon.ae
 DOMAIN-SUFFIX,a2z.com
 DOMAIN-SUFFIX,4paradigm.com
-DOMAIN-SUFFIX,tracklog.58.com
+
