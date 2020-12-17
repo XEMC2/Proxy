@@ -1,6 +1,43 @@
-# > 苹果CDN地址，一般采用直连，放在 AppleAPI 之上。
+# > 苹果 macOS 和 iOS 系统连接地址，源自 Surge 内置规则，一般采用直连，放在 Apple 规则顶部。
+# > 使用 Surge 客户端可单独使用 RULE-SET,SYSTEM,DIRECT 替换本区域。
+
+USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,*WeatherFoundation*
+USER-AGENT,%E5%9C%B0%E5%9B%BE*
+USER-AGENT,%E8%AE%BE%E7%BD%AE*
+USER-AGENT,com.apple.geod*
+USER-AGENT,com.apple.Maps
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,fmflocatord*
+USER-AGENT,geod*
+USER-AGENT,locationd*
+USER-AGENT,Maps*
+DOMAIN,api.smoot.apple.com
+DOMAIN,captive.apple.com
+DOMAIN,configuration.apple.com
+DOMAIN,guzzoni.apple.com
+DOMAIN,smp-device-content.apple.com
+DOMAIN,xp.apple.com
+DOMAIN-SUFFIX,ess.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,aod.itunes.apple.com
+DOMAIN,mesu.apple.com
+DOMAIN,api.smoot.apple.cn
+DOMAIN,gs-loc.apple.com
+DOMAIN,mvod.itunes.apple.com
+DOMAIN,streamingaudio.itunes.apple.com
+DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN-SUFFIX,lcdn-registration.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+PROCESS-NAME,trustd
+
+
+# > 苹果CDN地址，一般采用直连，放在 Apple API 规则之上。
 # > 来自 https://github.com/787a68/Self/blob/main/Apple-D.txt
-# > 以后更新可参考 https://blog.dada.li/2019/better-proxy-rules-for-apple-services
 
 # > Map
 DOMAIN-SUFFIX,ls.apple.com
@@ -26,6 +63,10 @@ DOMAIN,swcdn.apple.com
 DOMAIN,apptrailers.itunes.apple.com
 DOMAIN,updates-http.cdn-apple.com
 
-# > Other from geekdada
-# > Hotspot captive
-DOMAIN,captive.apple.com
+
+# > 苹果 CDN 地址补充
+# > 来自 https://github.com/geekdada/surge-list/blob/master/surgio-snippet/apple.tpl
+
+DOMAIN,oscdn.apple.com
+DOMAIN,updates.cdn-apple.com
+DOMAIN,reserve-prime.apple.com
