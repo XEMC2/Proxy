@@ -1,6 +1,6 @@
 # > 苹果 API 地址，美区 ID 应使用代理，放在 AppleCDN 以下。
 # > 来自 https://github.com/787a68/Self/blob/main/Apple-G.txt
-# > 以后更新可参考 https://blog.dada.li/2019/better-proxy-rules-for-apple-services
+# > 加入神机规则1条规则 appstore.com
 
 # > Main
 DOMAIN-SUFFIX,aaplimg.com
