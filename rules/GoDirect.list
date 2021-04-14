@@ -21,4 +21,21 @@ DOMAIN-SUFFIX,tracklog.58.com
 # DOMAIN-SUFFIX,a2z.com
 # DOMAIN-SUFFIX,4paradigm.com
 
-# 1.30注释掉亚马逊
+DOMAIN-SUFFIX,sellercentral.amazon.com
+DOMAIN-SUFFIX,sellercentral.amazon.co.uk
+DOMAIN-SUFFIX,sellercentral.amazon.de
+DOMAIN-SUFFIX,sellercentral.amazon.fr
+DOMAIN-SUFFIX,sellercentral.amazon.it
+DOMAIN-SUFFIX,sellercentral.amazon.es
+DOMAIN-SUFFIX,sellercentral.amazon.nl
+DOMAIN-SUFFIX,sellercentral.amazon.pl
+DOMAIN-SUFFIX,sellercentral.amazon.ca
+DOMAIN-SUFFIX,sellercentral.amazon.in
+DOMAIN-SUFFIX,sellercentral.amazon.sa
+DOMAIN-SUFFIX,sellercentral.amazon.sg
+DOMAIN-SUFFIX,sellercentral.amazon.ae
+DOMAIN-SUFFIX,sellercentral.amazon.com.tr
+DOMAIN-SUFFIX,sellercentral.amazon.com.br
+DOMAIN-SUFFIX,sellercentral.amazon.com.mx
+DOMAIN-SUFFIX,sellercentral.amazon.com.au
+DOMAIN-SUFFIX,sellercentral.amazon.co.jp
