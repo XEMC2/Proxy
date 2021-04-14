@@ -39,3 +39,5 @@ DOMAIN-SUFFIX,sellercentral.amazon.com.br
 DOMAIN-SUFFIX,sellercentral.amazon.com.mx
 DOMAIN-SUFFIX,sellercentral.amazon.com.au
 DOMAIN-SUFFIX,sellercentral.amazon.co.jp
+
+DOMAIN-SUFFIX,eu.account.amazon.com
