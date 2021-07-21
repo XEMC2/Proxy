@@ -1,2 +1,3 @@
+[Adblock Plus 2.0]
 !-----------------------Personal Adblock list-----------------------!
 .cc/js/ads/
