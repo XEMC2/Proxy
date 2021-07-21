@@ -4,4 +4,18 @@
 ! Last modified: 2021/07/21 10:00 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/xemc2/proxy
-!--------------------------General blocking filters---------------------------!
+!
+!-----------------------General advert blocking filters-----------------------!
+-1688-wp-media/ads/
+-880-80-4.jpg
+-90mh-gg.
+.bid/ads/
+.blog/ads/
+.cam/ads/
+.cc/ad/
+.cc/js/ads/
+.cloud/ads/
+.club/ads/
+.cn/ads/
+.cn/js/ads/
+.co/js/ads/
