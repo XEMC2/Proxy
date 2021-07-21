@@ -1,3 +1,7 @@
 [Adblock Plus 2.0]
-!-----------------------Personal Adblock list-----------------------!
-.cc/js/ads/
+! Version: 202107210959
+! Title: Mlist
+! Last modified: 2021/07/21 10:00 +0800
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/xemc2/proxy
+!--------------------------General blocking filters---------------------------!
