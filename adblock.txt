@@ -5,3 +5,4 @@
 ! Expires: 30 days (update frequency)
 
 www.google.com##DIV[id="gws-output-pages-elements-homepage_additional_languages__als"][class="vcVZ7d"]
+www.google.com##INPUT[class="RNmpXc"][name="btnI"]
