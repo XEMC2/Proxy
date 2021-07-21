@@ -4,9 +4,4 @@
 ! Last modified: 2021/05/18 18:58 +0800
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/cjx82630/cjxlist
-!
-! License: https://github.com/cjx82630/cjxlist/blob/master/LICENSE
-! Supplement for "EasyList China+EasyList" & "EasyPrivacy"
-! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
-! Email (cjxlist@gmail.com)
-!#include cjx-ublock.txt
+
