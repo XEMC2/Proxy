@@ -10,8 +10,3 @@
 ! Removed Annoyances, Self-promotion & Privacy Protection on Chinese Websites
 ! Email (cjxlist@gmail.com)
 !#include cjx-ublock.txt
-
-!-------------------------------微博评论页面----------------------------------!
-!---【相关推荐】
-weibo.com##.apps_PCD_reco_detail_right
-!----------------------------------The End------------------------------------!
