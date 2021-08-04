@@ -7,6 +7,9 @@
 www.google.com##DIV[id="gws-output-pages-elements-homepage_additional_languages__als"]
 www.google.com##INPUT[class="RNmpXc"][name="btnI"]
 www.google.com##DIV[class="uU7dJb"]
+www.google.com.hk##DIV[id="gws-output-pages-elements-homepage_additional_languages__als"]
+www.google.com.hk##INPUT[class="RNmpXc"][name="btnI"]
+www.google.com.hk##DIV[class="uU7dJb"]
 translate.google.com##NAV[class="VlPnLc"]
 translate.google.com##DIV[class="a88hkc"]
 ! ---- 爱词霸 ----!
