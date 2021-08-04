@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202107211000
+! Version: 202108041000
 ! Title: Mlist
-! Last modified: 2021/07/21 10:00 +0800
+! Last modified: 2021/08/04 10:00 +0800
 ! Expires: 1 days (update frequency)
 ! ---- Google ----!
 www.google.com##DIV[id="gws-output-pages-elements-homepage_additional_languages__als"]
