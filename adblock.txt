@@ -2,7 +2,7 @@
 ! Version: 202108041001
 ! Title: Mlist
 ! Last modified: 2021/08/05 10:01 +0800
-! Expires: 365 days (update frequency)
+! Expires: 1 days (update frequency)
 ! ---- Google ----!
 www.google.com##DIV[id="gws-output-pages-elements-homepage_additional_languages__als"]
 www.google.com##INPUT[class="RNmpXc"][name="btnI"]
