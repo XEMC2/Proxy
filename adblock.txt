@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 202108051025
 ! Title: Mlist
-! Last modified: 2021/08/05 10:25 +0800
+! Last modified: 2021/10/27 10:25 +0800
 ! Expires: 1 days (update frequency)
 ! ---- Google ----!
 www.google.com##DIV[id="gws-output-pages-elements-homepage_additional_languages__als"]
@@ -63,3 +63,5 @@ www.esdict.cn##A[id="weiboBtn"]
 www.esdict.cn##A[id="downloadBtn"]
 www.esdict.cn##A[id="improveBtn"]
 www.esdict.cn##A[href="https://www.eudic.net/v4/en/app/read"]
+! ---- Grammarly ----!
+account.grammarly.com##DIV[class="fqlvlsm buttons_kazaFormat__3QFaq buttons_kazaButton__100Qv fefqyxr"]
