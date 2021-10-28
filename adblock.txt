@@ -64,4 +64,4 @@ www.esdict.cn##A[id="downloadBtn"]
 www.esdict.cn##A[id="improveBtn"]
 www.esdict.cn##A[href="https://www.eudic.net/v4/en/app/read"]
 ! ---- Grammarly ----!
-account.grammarly.com##DIV[class="fqlvlsm buttons_kazaFormat__3QFaq buttons_kazaButton__100Qv fefqyxr"]
+
