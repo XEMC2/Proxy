@@ -58,6 +58,7 @@ dict.eudic.net##DIV[class="nav-bar"]
 dict.eudic.net##DIV[id="head-bk"]
 dict.eudic.net##DIV[id="header"]
 dict.eudic.net##DIV[id="prom"]
+dict.eudic.net##DIV[id="correct"]
 
 ! ---- 德语助手 ----!
 www.godic.net##DIV[id="header"]
