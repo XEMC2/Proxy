@@ -14,6 +14,7 @@ www.google.com.hk##DIV[class="uU7dJb"]
 www.google.com.hk##DIV[class="o3j99 c93Gbe"]
 translate.google.com##NAV[class="VlPnLc"]
 translate.google.com##DIV[class="a88hkc"]
+
 ! ---- 爱词霸 ----!
 www.iciba.com##DIV[class="MobileDownload_download__GmHg4"]
 www.iciba.com##H5[class="jsx-247017883 record"]
@@ -22,6 +23,7 @@ www.iciba.com##DIV[class="Func_func__3Zlgu"]
 www.iciba.com##DIV[class="PcDownload_pc__1VRMG"]
 www.iciba.com##DIV[class="Nav_right__2gHoA"]
 www.iciba.com##IMG[class="jsx-1408617862 corner"]
+
 ! ---- 有道词典 ----!
 youdao.com##DIV[id="margin3"]
 youdao.com##DIV[class="fl"]
@@ -32,6 +34,15 @@ youdao.com##SPAN[id="hnwBtn"][class="hand-write"]
 youdao.com##DIV[class="c-sust"]
 youdao.com##DIV[id="follow"][class="follow"]
 youdao.com##DIV[id="c_footer"]
+
+! ---- 有道翻译 ----!
+fanyi.youdao.com##UL[class="fanyi__nav__list"]
+fanyi.youdao.com##A[id="transMan"][class="fanyi__operations--man clog-js"][href="javascript:;"]
+fanyi.youdao.com##DIV[class="fanyi__footer"]
+fanyi.youdao.com##DIV[class="inside__products"]
+fanyi.youdao.com##DIV[class="side__nav__content"]
+fanyi.youdao.com##DIV[id="docUploadCon"][class="doc__upload--con"]
+fanyi.youdao.com##A[id="updateResult"][class="target__bar__update"]
 
 ! ---- 欧陆词典 ----!
 dict.eudic.net##DIV[class="header-content"]
@@ -46,6 +57,7 @@ dict.eudic.net##A[id="improveBtn"][href="http://www.francochinois.com/Support/qu
 dict.eudic.net##DIV[class="nav-bar"]
 dict.eudic.net##DIV[id="head-bk"]
 dict.eudic.net##DIV[id="header"]
+
 ! ---- 德语助手 ----!
 www.godic.net##DIV[id="header"]
 www.godic.net##DIV[id="prom"]
@@ -60,6 +72,7 @@ www.godic.net##A[id="weiboBtn"][href="http://www.weibo.com/dehelper"]
 www.godic.net##A[id="downloadBtn"]
 www.godic.net##A[id="improveBtn"]
 www.godic.net##DIV[class="specialWordBox"]
+
 ! ---- 法语助手 ----!
 www.frdic.com##DIV[id="header"]
 www.frdic.com##DIV[id="prom"]
@@ -73,6 +86,7 @@ www.frdic.com##A[id="weiboBtn"]
 www.frdic.com##A[id="downloadBtn"]
 www.frdic.com##A[id="improveBtn"]
 www.frdic.com##DIV[class="specialWordBox"]
+
 ! ---- 西语助手 ----!
 www.esdict.cn##DIV[id="header"]
 www.esdict.cn##DIV[id="prom"]
@@ -89,5 +103,32 @@ www.esdict.cn##A[id="downloadBtn"]
 www.esdict.cn##A[id="improveBtn"]
 www.esdict.cn##A[href="https://www.eudic.net/v4/en/app/read"]
 www.esdict.cn##DIV[class="specialWordBox"]
+
 ! ---- Grammarly ----!
 account.grammarly.com##DIV[class="mfa_settings_settings__2TeKT"]
+
+! ---- 百度网盘 ----!
+pan.baidu.com##DD[class="gOIbzPb"]
+pan.baidu.com##A[class="g-button "][title="保存到手机"]
+pan.baidu.com##A[class="g-button "][title="举报"]
+pan.baidu.com##IMG[class="btn-img-tips"]
+pan.baidu.com##SPAN[class="cMEMEF "][node-type="photo"]
+pan.baidu.com##A[class="icon icon-feedback app-feedback app-icon"][href="javascript:;"]
+pan.baidu.com##A[class="icon app-notice icon-notice app-notice app-icon"][href="/pcloud/msg"]
+pan.baidu.com##SPAN[class="wp-header-cert__tooltip nd-header-cert__tooltip-display"]
+pan.baidu.com##A[class="web-header-ad-item wp-disk-header__right-item"]
+pan.baidu.com##DIV[class="u-popover__reference"]
+pan.baidu.com##A[href="https://pan.baidu.com/disk/home?from=newversion&stayAtHome=true"]
+pan.baidu.com##DIV[class="nd-main-filelist__empty-download"]
+
+! ---- tec-it 条码生成 ----!
+barcode.tec-it.com##UL[class="link-list block-6 no-mar styled-list primary-menu"]
+barcode.tec-it.com##DIV[id="logo-pane"][class="block-3 no-mar"]
+barcode.tec-it.com##DIV[id="preHeader"][class="block-full clearfix"]
+barcode.tec-it.com##DIV[class="block-inner"]
+barcode.tec-it.com##DIV[class="block-6 bg-color-heading"]
+barcode.tec-it.com##svg
+barcode.tec-it.com##DIV[class="block-full bg-color-main clearfix"]
+barcode.tec-it.com##DIV[class="block-inner clearfix"]
+barcode.tec-it.com##FOOTER[class="clearfix"]
+
