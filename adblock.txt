@@ -57,6 +57,7 @@ dict.eudic.net##A[id="improveBtn"][href="http://www.francochinois.com/Support/qu
 dict.eudic.net##DIV[class="nav-bar"]
 dict.eudic.net##DIV[id="head-bk"]
 dict.eudic.net##DIV[id="header"]
+dict.eudic.net##DIV[id="prom"]
 
 ! ---- 德语助手 ----!
 www.godic.net##DIV[id="header"]
