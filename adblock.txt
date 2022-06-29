@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2022041510000
-! Title: Mlist
-! Last modified: 2022/4/15 10:00 +0800
+! Version: 2022062910000
+! Title: Seatar's List
+! Last modified: 2022/6/29 10:00 +0800
 ! Expires: 1 days (update frequency)
 ! ---- Google ----!
 www.google.com##DIV[id="gws-output-pages-elements-homepage_additional_languages__als"]
@@ -134,3 +134,6 @@ barcode.tec-it.com##DIV[class="block-full bg-color-main clearfix"]
 barcode.tec-it.com##DIV[class="block-inner clearfix"]
 barcode.tec-it.com##FOOTER[class="clearfix"]
 
+! ---- 领星 ERP 白名单 ----!
+@@erp.lingxing.com$document
+@@ads.lingxing.com$document
