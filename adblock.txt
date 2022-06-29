@@ -133,7 +133,3 @@ barcode.tec-it.com##svg
 barcode.tec-it.com##DIV[class="block-full bg-color-main clearfix"]
 barcode.tec-it.com##DIV[class="block-inner clearfix"]
 barcode.tec-it.com##FOOTER[class="clearfix"]
-
-! ---- 领星 ERP 白名单 ----!
-@@erp.lingxing.com$document
-@@ads.lingxing.com$document
