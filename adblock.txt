@@ -133,3 +133,18 @@ barcode.tec-it.com##svg
 barcode.tec-it.com##DIV[class="block-full bg-color-main clearfix"]
 barcode.tec-it.com##DIV[class="block-inner clearfix"]
 barcode.tec-it.com##FOOTER[class="clearfix"]
+
+! ---- 17track ----!
+www.17track.net##P[class="queries-num visibility-hide text-center margin-vertical-10"]
+www.17track.net##DIV[class="page-content yq-panel-solutions"]
+www.17track.net##DIV[class="page-content yq-panel-advantage"]
+www.17track.net##li[class="contact"]
+www.17track.net##li[class="share"]
+www.17track.net##DIV[class="page-content yq-panel-footer"]
+17track.net##DIV[class="page-content yq-panel-register"]
+17track.net##a[href="https://www.17track.net/track_page?utm_source=www.17track.net&utm_medium=referer&utm_campaign=20220510-trackcenter-landing-page"]
+17track.net##a[href="//api.17track.net/zh-cn"]
+17track.net##a[href="//features.17track.net/zh-cn/carriersettlein"]
+17track.net##a[href="//user.17track.net/register"]
+17track.net##a[class="btn btn-warning btn-pure yq-btn-flat btn-round font-weight-600 waves-effect"]
+17track.net##a[title="中文简体"]
