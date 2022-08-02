@@ -25,15 +25,13 @@ www.iciba.com##DIV[class="Nav_right__2gHoA"]
 www.iciba.com##IMG[class="jsx-1408617862 corner"]
 
 ! ---- 有道词典 ----!
-youdao.com##DIV[id="margin3"]
-youdao.com##DIV[class="fl"]
-youdao.com##DIV[id="doc2"]
-youdao.com##DIV[id="footer"]
-youdao.com##DIV[id="nav"]
-youdao.com##SPAN[id="hnwBtn"][class="hand-write"]
-youdao.com##DIV[class="c-sust"]
-youdao.com##DIV[id="follow"][class="follow"]
-youdao.com##DIV[id="c_footer"]
+youdao.com##A[data-rlog="navigation_5"]
+youdao.com##A[data-rlog="navigation_3"]
+youdao.com##A[data-rlog="navigation_4"]
+youdao.com##DIV[class="account"]
+youdao.com##UL[class="product-list"]
+youdao.com##DIV[class="footer"]
+youdao.com##DIV[class="feedbackBtn"]
 
 ! ---- 有道翻译 ----!
 fanyi.youdao.com##UL[class="fanyi__nav__list"]
