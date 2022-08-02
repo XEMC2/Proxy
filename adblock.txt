@@ -148,3 +148,6 @@ www.17track.net##DIV[class="page-content yq-panel-footer"]
 17track.net##a[href="//user.17track.net/register"]
 17track.net##a[class="btn btn-warning btn-pure yq-btn-flat btn-round font-weight-600 waves-effect"]
 17track.net##a[title="中文简体"]
+
+! ---- COS ----!
+cosbrowser.cloud.tencent.com##A[class="ad-float"]
