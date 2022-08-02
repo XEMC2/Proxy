@@ -24,15 +24,6 @@ www.iciba.com##DIV[class="PcDownload_pc__1VRMG"]
 www.iciba.com##DIV[class="Nav_right__2gHoA"]
 www.iciba.com##IMG[class="jsx-1408617862 corner"]
 
-! ---- 有道词典 ----!
-youdao.com##A[data-rlog="navigation_5"]
-youdao.com##A[data-rlog="navigation_3"]
-youdao.com##A[data-rlog="navigation_4"]
-youdao.com##DIV[class="account"]
-youdao.com##UL[class="product-list"]
-youdao.com##DIV[class="footer"]
-youdao.com##DIV[class="feedbackBtn"]
-
 ! ---- 有道翻译 ----!
 fanyi.youdao.com##UL[class="fanyi__nav__list"]
 fanyi.youdao.com##A[id="transMan"][class="fanyi__operations--man clog-js"][href="javascript:;"]
@@ -41,6 +32,15 @@ fanyi.youdao.com##DIV[class="inside__products"]
 fanyi.youdao.com##DIV[class="side__nav__content"]
 fanyi.youdao.com##DIV[id="docUploadCon"][class="doc__upload--con"]
 fanyi.youdao.com##A[id="updateResult"][class="target__bar__update"]
+
+! ---- 有道词典 ----!
+youdao.com##A[data-rlog="navigation_5"]
+youdao.com##A[data-rlog="navigation_3"]
+youdao.com##A[data-rlog="navigation_4"]
+youdao.com##DIV[class="account"]
+youdao.com##UL[class="product-list"]
+youdao.com##DIV[class="footer"]
+youdao.com##DIV[class="feedbackBtn"]
 
 ! ---- 欧陆词典 ----!
 dict.eudic.net##DIV[class="header-content"]
