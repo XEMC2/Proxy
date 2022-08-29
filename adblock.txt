@@ -149,3 +149,6 @@ www.17track.net##DIV[class="page-content yq-panel-footer"]
 
 ! ---- COS ----!
 cosbrowser.cloud.tencent.com##A[class="ad-float"]
+
+! ---- ERP ----!
+@@lingxing.com$document
