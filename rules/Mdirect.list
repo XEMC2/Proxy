@@ -31,7 +31,6 @@ DOMAIN-SUFFIX,ap.spotify.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
-DOMAIN,translate.googleapis.com
 
 # > Google Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
