@@ -152,3 +152,7 @@ cosbrowser.cloud.tencent.com##A[class="ad-float"]
 
 ! ---- ERP ----!
 @@lingxing.com$document
+
+! ---- 1688 支持图片拖动 ----!
+detail.1688.com##DIV[class="scale-img"]
+detail.1688.com##DIV[class="scaled-img"]
