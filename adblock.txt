@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2022062910000
+! Version: 2023032710000
 ! Title: Seatar's List
-! Last modified: 2022/6/29 10:00 +0800
+! Last modified: 2023/3/27 10:00 +0800
 ! Expires: 1 days (update frequency)
 ! ---- Google ----!
 www.google.com##DIV[id="gws-output-pages-elements-homepage_additional_languages__als"]
