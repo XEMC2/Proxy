@@ -149,3 +149,6 @@ detail.1688.com##DIV[class="scaled-img"]
 ! ---- Bing ----!
 bing.com##DIV[class="scroll_cont show_all"]
 bing.com##DIV[class="scroll_cont show_none"]
+bing.com##A[id="id_rh"][class="id_button toolTip"]
+bing.com##A[id="id_l"][class="id_button"]
+bing.com##A[id="id_qrcode"][class="tooltip"]
