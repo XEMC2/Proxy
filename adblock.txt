@@ -129,6 +129,8 @@ pan.baidu.com##DIV[class="nd-main-filelist__empty-download"]
 17track.net##DIV[class="page-content yq-panel-advantage"]
 17track.net##DIV[class="page-content yq-panel-register"]
 17track.net##DIV[class="page-content yq-panel-footer"]
+17track.net##P[class="queries-num visibility-hide text-center margin-vertical-10"]
+17track.net##DIV[class="back-top"]
 
 ! ---- COS ----!
 cosbrowser.cloud.tencent.com##A[class="ad-float"]
