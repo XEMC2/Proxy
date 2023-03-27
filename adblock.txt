@@ -41,6 +41,10 @@ youdao.com##DIV[class="account"]
 youdao.com##UL[class="product-list"]
 youdao.com##DIV[class="footer"]
 youdao.com##DIV[class="feedbackBtn"]
+youdao.com##DIV[class="contianer"]
+fanyi.youdao.com##UL[class="nav_list color_text_1"]
+fanyi.youdao.com##I[class="ic_new_tag"]
+fanyi.youdao.com##DIV[class="sticky-sidebar"]
 
 ! ---- 欧陆词典 ----!
 dict.eudic.net##DIV[class="header-content"]
@@ -141,3 +145,7 @@ cosbrowser.cloud.tencent.com##A[class="ad-float"]
 ! ---- 1688 支持图片拖动 ----!
 detail.1688.com##DIV[class="scale-img"]
 detail.1688.com##DIV[class="scaled-img"]
+
+! ---- Bing ----!
+bing.com##DIV[class="scroll_cont show_all"]
+bing.com##DIV[class="scroll_cont show_none"]
