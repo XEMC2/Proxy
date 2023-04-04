@@ -1,4 +1,5 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
-DOMAIN,nexus-websocket-a.intercom.io
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,identrust.com
