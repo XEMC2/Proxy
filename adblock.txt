@@ -45,6 +45,7 @@ youdao.com##DIV[class="contianer"]
 fanyi.youdao.com##UL[class="nav_list color_text_1"]
 fanyi.youdao.com##I[class="ic_new_tag"]
 fanyi.youdao.com##DIV[class="sticky-sidebar"]
+youdao.com##IMG[class="swiper-img"]
 
 ! ---- 欧陆词典 ----!
 dict.eudic.net##DIV[class="header-content"]
