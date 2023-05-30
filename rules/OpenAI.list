@@ -10,5 +10,6 @@ DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,api.revenuecat.com
 
 DOMAIN-SUFFIX,stripe.com
