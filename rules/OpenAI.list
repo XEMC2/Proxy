@@ -3,9 +3,12 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,js.intercomedn.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,events.statsigapi.net
 
 DOMAIN-SUFFIX,stripe.com
