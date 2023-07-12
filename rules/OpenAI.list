@@ -13,3 +13,8 @@ DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,api.revenuecat.com
 
 DOMAIN-SUFFIX,stripe.com
+
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,hsforms.net
+DOMAIN-SUFFIX,hsforms.com
