@@ -18,3 +18,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,hsforms.com
+
+DOMAIN,bard.google.com
