@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,api.revenuecat.com
+DOMAIN-SUFFIX,oaistatic.com
 
 DOMAIN-SUFFIX,stripe.com
 
