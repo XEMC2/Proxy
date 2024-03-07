@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,ai.com
+# OpenAI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,sentry.io
@@ -9,15 +9,32 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,intercomcdn.com
 
 DOMAIN-SUFFIX,stripe.com
 
-DOMAIN-SUFFIX,anthropic.com
+# Claude
+DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,hsforms.com
 
+# Google
+DOMAIN-SUFFIX,deepmind.com
 DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
+DOMAIN,makersuite.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,generativeai.google
+
+# Other
+DOMAIN-SUFFIX,ai.com
