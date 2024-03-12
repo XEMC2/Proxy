@@ -1,27 +1,83 @@
-# > 58.com 广告规则，屏蔽后无法点击按钮
-DOMAIN-SUFFIX,tracklog.58.com
-
-DOMAIN-SUFFIX,mdt.qq.com
+# > 亚马逊前台
+DOMAIN,amazon.com
+DOMAIN,amazon.co.uk
+DOMAIN,amazon.de
+DOMAIN,amazon.fr
+DOMAIN,amazon.it
+DOMAIN,amazon.es
+DOMAIN,amazon.nl
+DOMAIN,amazon.pl
+DOMAIN,amazon.ca
+DOMAIN,amazon.in
+DOMAIN,amazon.sa
+DOMAIN,amazon.sg
+DOMAIN,amazon.ae
+DOMAIN,amazon.com.tr
+DOMAIN,amazon.com.br
+DOMAIN,amazon.com.mx
+DOMAIN,amazon.com.au
+DOMAIN,amazon.co.jp
+DOMAIN,www.amazon.com
+DOMAIN,www.amazon.co.uk
+DOMAIN,www.amazon.de
+DOMAIN,www.amazon.fr
+DOMAIN,www.amazon.it
+DOMAIN,www.amazon.es
+DOMAIN,www.amazon.nl
+DOMAIN,www.amazon.pl
+DOMAIN,www.amazon.ca
+DOMAIN,www.amazon.in
+DOMAIN,www.amazon.sa
+DOMAIN,www.amazon.sg
+DOMAIN,www.amazon.ae
+DOMAIN,www.amazon.com.tr
+DOMAIN,www.amazon.com.br
+DOMAIN,www.amazon.com.mx
+DOMAIN,www.amazon.com.au
+DOMAIN,www.amazon.co.jp
 
 # > 亚马逊后台
-DOMAIN-SUFFIX,amazon.com
-DOMAIN-SUFFIX,amazon.co.uk
-DOMAIN-SUFFIX,amazon.de
-DOMAIN-SUFFIX,amazon.fr
-DOMAIN-SUFFIX,amazon.it
-DOMAIN-SUFFIX,amazon.es
-DOMAIN-SUFFIX,amazon.nl
-DOMAIN-SUFFIX,amazon.pl
-DOMAIN-SUFFIX,amazon.ca
-DOMAIN-SUFFIX,amazon.in
-DOMAIN-SUFFIX,amazon.sa
-DOMAIN-SUFFIX,amazon.sg
-DOMAIN-SUFFIX,amazon.ae
-DOMAIN-SUFFIX,amazon.com.tr
-DOMAIN-SUFFIX,amazon.com.br
-DOMAIN-SUFFIX,amazon.com.mx
-DOMAIN-SUFFIX,amazon.com.au
-DOMAIN-SUFFIX,amazon.co.jp
+DOMAIN,sellercentral.amazon.com
+DOMAIN,sellercentral.amazon.co.uk
+DOMAIN,sellercentral.amazon.de
+DOMAIN,sellercentral.amazon.fr
+DOMAIN,sellercentral.amazon.it
+DOMAIN,sellercentral.amazon.es
+DOMAIN,sellercentral.amazon.nl
+DOMAIN,sellercentral.amazon.pl
+DOMAIN,sellercentral.amazon.ca
+DOMAIN,sellercentral.amazon.in
+DOMAIN,sellercentral.amazon.sa
+DOMAIN,sellercentral.amazon.sg
+DOMAIN,sellercentral.amazon.ae
+DOMAIN,sellercentral.amazon.com.tr
+DOMAIN,sellercentral.amazon.com.br
+DOMAIN,sellercentral.amazon.com.mx
+DOMAIN,sellercentral.amazon.com.au
+DOMAIN,sellercentral.amazon.co.jp
+
+# > 亚马逊广告
+DOMAIN,advertising.amazon.com
+DOMAIN,advertising.amazon.co.uk
+DOMAIN,advertising.amazon.de
+DOMAIN,advertising.amazon.fr
+DOMAIN,advertising.amazon.it
+DOMAIN,advertising.amazon.es
+DOMAIN,advertising.amazon.nl
+DOMAIN,advertising.amazon.pl
+DOMAIN,advertising.amazon.ca
+DOMAIN,advertising.amazon.in
+DOMAIN,advertising.amazon.sa
+DOMAIN,advertising.amazon.sg
+DOMAIN,advertising.amazon.ae
+DOMAIN,advertising.amazon.com.tr
+DOMAIN,advertising.amazon.com.br
+DOMAIN,advertising.amazon.com.mx
+DOMAIN,advertising.amazon.com.au
+DOMAIN,advertising.amazon.co.jp
+
+# > 58.com 广告规则，屏蔽后无法点击按钮
+DOMAIN-SUFFIX,tracklog.58.com
 
 # > Spotify 可能无法联网问题
 DOMAIN-SUFFIX,ap.spotify.com
@@ -30,7 +86,6 @@ DOMAIN-SUFFIX,ap.spotify.com
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
-
 
 # > Google Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
@@ -48,3 +103,6 @@ DOMAIN,alt9-mtalk.google.com
 # > Google Fonts API
 DOMAIN,fonts.googleapis.com
 DOMAIN,fonts.gstatic.com
+
+# > Other
+DOMAIN-SUFFIX,mdt.qq.com
