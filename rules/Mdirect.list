@@ -44,10 +44,17 @@ DOMAIN-SUFFIX,tracklog.58.com
 # > Spotify 可能无法联网问题
 DOMAIN-SUFFIX,ap.spotify.com
 
-# > Google General
+# > Google 下载与更新
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
 DOMAIN,update.googleapis.com
+cache.pack.google.com
+download.mlcc.google.com
+download.tensorflow.google.com
+
+# > Google Fonts
+DOMAIN,fonts.googleapis.com
+DOMAIN,fonts.gstatic.com
 
 # > Google Firebase Cloud Messaging
 DOMAIN,mtalk.google.com
@@ -62,9 +69,9 @@ DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 DOMAIN,alt9-mtalk.google.com
 
-# > Google Fonts API
-DOMAIN,fonts.googleapis.com
-DOMAIN,fonts.gstatic.com
+# Microsoft Download
+download.visualstudio.microsoft.com
+ctldl.windowsupdate.com
 
 # > Other
 DOMAIN-SUFFIX,mdt.qq.com
