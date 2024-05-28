@@ -1,0 +1,2 @@
+# Adobe 软件的打点 SDK 所使用的 HTTP 请求库实现不当，会无限重试请求导致 Surge 内存泄漏。
+DOMAIN-SUFFIX,geo2.adobe.com
