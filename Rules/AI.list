@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,api.revenuecat.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
+DOMAIN,chatgpt-async-webps-prod-southcentralus-34.webpubsub.azure.com
 
 DOMAIN-SUFFIX,stripe.com
 
