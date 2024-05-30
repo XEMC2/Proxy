@@ -12,10 +12,10 @@ wifiman-stability-test.ubncloud.com
 .speed.googlefiber.net
 
 # Ookla Speedtest.net
-# 来源于：https://gist.github.com/ofou/654efe67e173a6bff5c64ba26c09d058?permalink_comment_id=4804076#gistcomment-4804076
+# 1. 来源于：https://gist.github.com/ofou/654efe67e173a6bff5c64ba26c09d058?permalink_comment_id=4804076#gistcomment-4804076
 # 和 https://github.com/alcayaga/speedtest-servers
-# 筛选出 CN CA HK JP SG US 国家包含的节点。参考下面的样式删除了部分前缀：
-# https://github.com/SukkaW/Surge/blob/master/Build/build-speedtest-domainset.ts
+# 2. 筛选出 CN CA HK JP SG US 国家包含的节点。
+# 3. 对比 https://ruleset.skk.moe/List/domainset/speedtest.conf 找出缺少的节点。
 
 .speedtest.net
 .ooklaserver.net
