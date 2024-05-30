@@ -634,12 +634,13 @@ DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,ibkr.com
 
-# 亚马逊 unagi
+# 亚马逊 unagi、fls 和一个 CDN
 DOMAIN,unagi-na.amazon.com
 DOMAIN,unagi-eu.amazon.com
 DOMAIN-KEYWORD,unagi.amazon
 DOMAIN-KEYWORD,fls-eu.amazon
 DOMAIN-KEYWORD,fls-na.amazon
+DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 
 # 其他增加
 DOMAIN-SUFFIX,udemy.com
