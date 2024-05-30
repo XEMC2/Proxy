@@ -623,14 +623,25 @@ DOMAIN-SUFFIX,you-get.org
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zeronet.io
 DOMAIN-KEYWORD,pinterest
-DOMAIN-SUFFIX,udemy.com
-DOMAIN-SUFFIX,udemycdn.com
-DOMAIN-SUFFIX,fiverr.com
+
+# 富途牛牛
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futuhk.com
 DOMAIN-SUFFIX,futufin.com
+
+# 盈透证券
 DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,ibkr.com
+
+# 亚马逊 unagi
+DOMAIN,unagi-eu.amazon.com
+DOMAIN-KEYWORD,unagi.amazon
+
+# 其他增加
+DOMAIN-SUFFIX,udemy.com
+DOMAIN-SUFFIX,udemycdn.com
+DOMAIN-SUFFIX,fiverr.com
 DOMAIN-SUFFIX,raz-kids.com
 DOMAIN-SUFFIX,botanwang.com
+DOMAIN-SUFFIX,keepa.com
