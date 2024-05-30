@@ -635,6 +635,7 @@ DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,ibkr.com
 
 # 亚马逊 unagi
+DOMAIN,unagi-na.amazon.com
 DOMAIN,unagi-eu.amazon.com
 DOMAIN-KEYWORD,unagi.amazon
 
