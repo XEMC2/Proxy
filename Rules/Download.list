@@ -1,0 +1,34 @@
+# AdGuard 程序往网页中注入去广告增强脚本的域名
+DOMAIN,injections.adguard.org
+DOMAIN,local.adguard.org
+
+# BT 和 BT Based 下载器的进程名
+PROCESS-NAME,privoxy
+PROCESS-NAME,cloudflared
+PROCESS-NAME,aria2c
+PROCESS-NAME,fdm
+PROCESS-NAME,Folx
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Thunder
+PROCESS-NAME,ThunderVIP
+PROCESS-NAME,Transmission
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,BitComet
+PROCESS-NAME,uTorrent
+PROCESS-NAME,qbittorrent*
+PROCESS-NAME,DownloadService
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,amuled
+PROCESS-NAME,Motrix.app
+PROCESS-NAME,UUBooster
+PROCESS-NAME,tailscaled
+PROCESS-NAME,parsecd
+PROCESS-NAME,SunloginClient_Desktop
+PROCESS-NAME,SunloginClient_Helper
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,Logi Options
+PROCESS-NAME,Logi Options Daemon
