@@ -1,4 +1,4 @@
-# > 亚马逊后台
+# 亚马逊后台
 DOMAIN,sellercentral.amazon.com
 DOMAIN,sellercentral.amazon.co.uk
 DOMAIN,sellercentral.amazon.de
@@ -18,7 +18,7 @@ DOMAIN,sellercentral.amazon.com.mx
 DOMAIN,sellercentral.amazon.com.au
 DOMAIN,sellercentral.amazon.co.jp
 
-# > 亚马逊广告
+# 亚马逊广告
 DOMAIN,advertising.amazon.com
 DOMAIN,advertising.amazon.co.uk
 DOMAIN,advertising.amazon.de
@@ -38,11 +38,8 @@ DOMAIN,advertising.amazon.com.mx
 DOMAIN,advertising.amazon.com.au
 DOMAIN,advertising.amazon.co.jp
 
-# > 58.com 广告规则，屏蔽后无法点击按钮
-DOMAIN-SUFFIX,tracklog.58.com
-
-# > Spotify 可能无法联网问题
-DOMAIN-SUFFIX,ap.spotify.com
+# 亚马逊国内缓存
+DOMAIN,images-cn.ssl-images-amazon.cn
 
 # > Google 下载与更新
 DOMAIN,dl.google.com
@@ -68,6 +65,12 @@ DOMAIN,alt6-mtalk.google.com
 DOMAIN,alt7-mtalk.google.com
 DOMAIN,alt8-mtalk.google.com
 DOMAIN,alt9-mtalk.google.com
+
+# > 58.com 广告规则，屏蔽后无法点击按钮
+DOMAIN-SUFFIX,tracklog.58.com
+
+# > Spotify 可能无法联网问题
+DOMAIN-SUFFIX,ap.spotify.com
 
 # > Other
 DOMAIN-SUFFIX,mdt.qq.com
