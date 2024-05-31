@@ -32,3 +32,6 @@ PROCESS-NAME,SunloginClient_Helper
 PROCESS-NAME,BaiduNetdisk_mac
 PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
+
+# 其他客户端的 BT 下载也要直连
+URL-REGEX,(torrent|announce.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=)
