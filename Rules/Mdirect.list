@@ -41,6 +41,12 @@ DOMAIN,advertising.amazon.co.jp
 # 亚马逊国内缓存
 DOMAIN,images-cn.ssl-images-amazon.cn
 
+# 工具
+DOMAIN-SUFFIX,oalur.com
+DOMAIN-SUFFIX,h10.com.cn
+DOMAIN-SUFFIX,lingxing.com
+DOMAIN-SUFFIX,lingxingerp.com
+
 # > Google 下载与更新
 DOMAIN,dl.google.com
 DOMAIN,dl.l.google.com
@@ -74,3 +80,4 @@ DOMAIN-SUFFIX,ap.spotify.com
 
 # > Other
 DOMAIN-SUFFIX,mdt.qq.com
+DOMAIN,internal-api-lark-api.undefined
