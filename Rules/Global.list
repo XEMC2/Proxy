@@ -634,13 +634,16 @@ DOMAIN-SUFFIX,interactivebrokers.com
 DOMAIN-SUFFIX,interactivebrokers.com.hk
 DOMAIN-SUFFIX,ibkr.com
 
-# 亚马逊 unagi、fls 和一个 CDN
+# 亚马逊 unagi、fls 和几个 CDN
 DOMAIN,unagi-na.amazon.com
 DOMAIN,unagi-eu.amazon.com
+DOMAIN,unagi-fe.amazon.com
 DOMAIN-KEYWORD,unagi.amazon
 DOMAIN-KEYWORD,fls-eu.amazon
 DOMAIN-KEYWORD,fls-na.amazon
+
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
+DOMAIN-SUFFIX,execute-api.eu-west-1.amazonaws.com
 
 # 其他增加
 DOMAIN-SUFFIX,udemy.com
@@ -649,3 +652,8 @@ DOMAIN-SUFFIX,fiverr.com
 DOMAIN-SUFFIX,raz-kids.com
 DOMAIN-SUFFIX,botanwang.com
 DOMAIN-SUFFIX,keepa.com
+DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,helium10.com
+DOMAIN,polka.typekit.com
+DOMAIN-SUFFIX,adobess.com
+DOMAIN-SUFFIX,adobe.io
