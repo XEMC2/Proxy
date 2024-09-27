@@ -1,42 +1,42 @@
 # 亚马逊后台
-DOMAIN,sellercentral.amazon.com
-DOMAIN,sellercentral.amazon.co.uk
-DOMAIN,sellercentral.amazon.de
-DOMAIN,sellercentral.amazon.fr
-DOMAIN,sellercentral.amazon.it
-DOMAIN,sellercentral.amazon.es
-DOMAIN,sellercentral.amazon.nl
-DOMAIN,sellercentral.amazon.pl
-DOMAIN,sellercentral.amazon.ca
-DOMAIN,sellercentral.amazon.in
-DOMAIN,sellercentral.amazon.sa
-DOMAIN,sellercentral.amazon.sg
-DOMAIN,sellercentral.amazon.ae
-DOMAIN,sellercentral.amazon.com.tr
-DOMAIN,sellercentral.amazon.com.br
-DOMAIN,sellercentral.amazon.com.mx
-DOMAIN,sellercentral.amazon.com.au
-DOMAIN,sellercentral.amazon.co.jp
+# DOMAIN,sellercentral.amazon.com
+# DOMAIN,sellercentral.amazon.co.uk
+# DOMAIN,sellercentral.amazon.de
+# DOMAIN,sellercentral.amazon.fr
+# DOMAIN,sellercentral.amazon.it
+# DOMAIN,sellercentral.amazon.es
+# DOMAIN,sellercentral.amazon.nl
+# DOMAIN,sellercentral.amazon.pl
+# DOMAIN,sellercentral.amazon.ca
+# DOMAIN,sellercentral.amazon.in
+# DOMAIN,sellercentral.amazon.sa
+# DOMAIN,sellercentral.amazon.sg
+# DOMAIN,sellercentral.amazon.ae
+# DOMAIN,sellercentral.amazon.com.tr
+# DOMAIN,sellercentral.amazon.com.br
+# DOMAIN,sellercentral.amazon.com.mx
+# DOMAIN,sellercentral.amazon.com.au
+# DOMAIN,sellercentral.amazon.co.jp
 
 # 亚马逊广告
-DOMAIN,advertising.amazon.com
-DOMAIN,advertising.amazon.co.uk
-DOMAIN,advertising.amazon.de
-DOMAIN,advertising.amazon.fr
-DOMAIN,advertising.amazon.it
-DOMAIN,advertising.amazon.es
-DOMAIN,advertising.amazon.nl
-DOMAIN,advertising.amazon.pl
-DOMAIN,advertising.amazon.ca
-DOMAIN,advertising.amazon.in
-DOMAIN,advertising.amazon.sa
-DOMAIN,advertising.amazon.sg
-DOMAIN,advertising.amazon.ae
-DOMAIN,advertising.amazon.com.tr
-DOMAIN,advertising.amazon.com.br
-DOMAIN,advertising.amazon.com.mx
-DOMAIN,advertising.amazon.com.au
-DOMAIN,advertising.amazon.co.jp
+# DOMAIN,advertising.amazon.com
+# DOMAIN,advertising.amazon.co.uk
+# DOMAIN,advertising.amazon.de
+# DOMAIN,advertising.amazon.fr
+# DOMAIN,advertising.amazon.it
+# DOMAIN,advertising.amazon.es
+# DOMAIN,advertising.amazon.nl
+# DOMAIN,advertising.amazon.pl
+# DOMAIN,advertising.amazon.ca
+# DOMAIN,advertising.amazon.in
+# DOMAIN,advertising.amazon.sa
+# DOMAIN,advertising.amazon.sg
+# DOMAIN,advertising.amazon.ae
+# DOMAIN,advertising.amazon.com.tr
+# DOMAIN,advertising.amazon.com.br
+# DOMAIN,advertising.amazon.com.mx
+# DOMAIN,advertising.amazon.com.au
+# DOMAIN,advertising.amazon.co.jp
 
 # 工具
 DOMAIN-SUFFIX,oalur.com
