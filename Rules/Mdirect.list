@@ -38,9 +38,6 @@ DOMAIN,advertising.amazon.com.mx
 DOMAIN,advertising.amazon.com.au
 DOMAIN,advertising.amazon.co.jp
 
-# 亚马逊国内缓存
-DOMAIN,images-cn.ssl-images-amazon.cn
-
 # 工具
 DOMAIN-SUFFIX,oalur.com
 DOMAIN-SUFFIX,h10.com.cn
