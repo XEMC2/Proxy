@@ -1,1 +1,8 @@
-
+# > 解除秋风广告中亚马逊相关域名
+.adtago.s3.amazonaws.com
+.advertising-api-eu.amazon.com
+.advertising-api-fe.amazon.com
+.advertising-api.amazon.com
+.advice-ads.s3.amazonaws.com
+.analytics.s3.amazonaws.com
+.analyticsengine.s3.amazonaws.com
