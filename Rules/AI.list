@@ -27,8 +27,6 @@ DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN,chatgpt-async-webps-prod-southcentralus-34.webpubsub.azure.com
 
-DOMAIN-SUFFIX,stripe.com
-
 # Claude
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
@@ -38,14 +36,20 @@ DOMAIN-SUFFIX,hsforms.com
 # Google Gemini
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,gemini.google
+DOMAIN-SUFFIX,jules.google.com
 
 # Google DeepMind
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 
 # Google Generative Language API
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN,aida.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
+DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 
 # Google AI Studio
@@ -57,16 +61,20 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,antigravity.google
 
 # Other
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,groq.com
+DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,clipdrop.co
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,openrouter.ai
+DOMAIN-SUFFIX,api.jetbrains.ai
 DOMAIN,gateway.ai.cloudflare.com
