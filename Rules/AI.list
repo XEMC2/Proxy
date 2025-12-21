@@ -34,6 +34,7 @@ DOMAIN-SUFFIX,hsforms.net
 DOMAIN-SUFFIX,hsforms.com
 
 # Google Gemini
+DOMAIN,www.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.google
