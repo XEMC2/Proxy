@@ -34,11 +34,13 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
 DOMAIN-SUFFIX,claudeusercontent.com
 
 ## Claude CDN 和静态资源
-DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,cdn.anthropic.com
 DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,servd-anthropic-website.b-cdn.net
 
 ## Claude 认证 / 内容
 DOMAIN,anthropic.auth0.com
@@ -62,6 +64,7 @@ IP-CIDR6,2607:6bc0::/32,no-resolve
 IP-ASN,399358,no-resolve
 
 # Google Gemini
+DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,gemini.google
@@ -74,6 +77,7 @@ DOMAIN-SUFFIX,deepmind.google
 # Google Generative Language API
 DOMAIN,aida.googleapis.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,robinfrontend-pa.googleapis.com
