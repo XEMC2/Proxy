@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN,browser-intake-us5-datadoghq.com
 DOMAIN-KEYWORD,datadog
+DOMAIN-KEYWORD,sentry
 DOMAIN-KEYWORD,sift
 
 ## Claude 客服 / 第三方 widget
